@@ -1,0 +1,11 @@
+D:\Project\ARMC\Payment Gateway\PaymentGateway\PaymentGateway.CryptoDemo2\bin\Debug\PaymentGateway.CryptoDemo2.exe.config
+D:\Project\ARMC\Payment Gateway\PaymentGateway\PaymentGateway.CryptoDemo2\bin\Debug\PaymentGateway.CryptoDemo2.exe
+D:\Project\ARMC\Payment Gateway\PaymentGateway\PaymentGateway.CryptoDemo2\bin\Debug\PaymentGateway.CryptoDemo2.pdb
+D:\Project\ARMC\Payment Gateway\PaymentGateway\PaymentGateway.CryptoDemo2\obj\Debug\PaymentGateway.CryptoDemo2.csproj.AssemblyReference.cache
+D:\Project\ARMC\Payment Gateway\PaymentGateway\PaymentGateway.CryptoDemo2\obj\Debug\PaymentGateway.CryptoDemo2.csproj.SuggestedBindingRedirects.cache
+D:\Project\ARMC\Payment Gateway\PaymentGateway\PaymentGateway.CryptoDemo2\obj\Debug\PaymentGateway.CryptoDemo2.Properties.Resources.resources
+D:\Project\ARMC\Payment Gateway\PaymentGateway\PaymentGateway.CryptoDemo2\obj\Debug\PaymentGateway.CryptoDemo2.csproj.GenerateResource.cache
+D:\Project\ARMC\Payment Gateway\PaymentGateway\PaymentGateway.CryptoDemo2\obj\Debug\PaymentGateway.CryptoDemo2.csproj.CoreCompileInputs.cache
+D:\Project\ARMC\Payment Gateway\PaymentGateway\PaymentGateway.CryptoDemo2\obj\Debug\PaymentGateway.CryptoDemo2.exe
+D:\Project\ARMC\Payment Gateway\PaymentGateway\PaymentGateway.CryptoDemo2\obj\Debug\PaymentGateway.CryptoDemo2.pdb
+D:\Project\ARMC\Payment Gateway\PaymentGateway\PaymentGateway.CryptoDemo2\obj\Debug\PaymentGateway.CryptoDemo2.Form1.resources
